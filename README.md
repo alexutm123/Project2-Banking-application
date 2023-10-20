@@ -10,7 +10,7 @@ It will also need to be able to accept Payment and Deposit payments,changes in d
 
 And realize the method of transferring money from one Account to another (Transfer) in a separate controller. 
 
-Create account.
+
 
 ![image](https://github.com/alexutm123/Project2-Banking-application/blob/main/screen/create.jpg)
 
