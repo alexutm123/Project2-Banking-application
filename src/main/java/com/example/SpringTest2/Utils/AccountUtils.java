@@ -1,4 +1,4 @@
-package utils;
+package com.example.SpringTest2.Utils;
 
 import com.example.SpringTest2.entity.Account;
 import com.example.SpringTest2.entity.Bill;

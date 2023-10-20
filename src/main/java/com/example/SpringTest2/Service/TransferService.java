@@ -10,7 +10,7 @@ import com.example.SpringTest2.entity.Account;
 import com.example.SpringTest2.entity.Bill;
 import com.example.SpringTest2.exceptions.NotDefaultBillExeptions;
 
-import utils.AccountUtils;
+import com.example.SpringTest2.Utils.AccountUtils;
 
 @Service
 public class TransferService {

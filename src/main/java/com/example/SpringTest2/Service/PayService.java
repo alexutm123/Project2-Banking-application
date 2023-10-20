@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import com.example.SpringTest2.entity.Account;
 import com.example.SpringTest2.entity.Bill;
 
-import utils.AccountUtils;
+import com.example.SpringTest2.Utils.AccountUtils;
 
 @Service
 public class PayService {
