@@ -23,5 +23,10 @@ Pay
 ![image](https://github.com/alexutm123/Project2-Banking-application/blob/main/screen/pay.jpg)Pay result
 ![image](https://github.com/alexutm123/Project2-Banking-application/blob/main/screen/payResult.jpg)
 
+Add depozit
+![image](https://github.com/alexutm123/Project2-Banking-application/blob/main/screen/addDepozit.jpg)Result depozit
+![image](https://github.com/alexutm123/Project2-Banking-application/blob/main/screen/addDepresult.jpg)
+
+
 
 
