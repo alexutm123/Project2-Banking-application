@@ -10,8 +10,8 @@ Bill will contain the following fields: billId, BigDecimal amount, boolean isDef
 
 And realize the method of transferring money from one Account to another (Transfer) in a separate controller.
 
-Create account
-![image](https://github.com/alexutm123/Project2-Banking-application/blob/main/screen/create.jpg)
+
+Create account![image](https://github.com/alexutm123/Project2-Banking-application/blob/main/screen/create.jpg)
 
 Transfer 
 ![image](https://github.com/alexutm123/Project2-Banking-application/blob/main/screen/transfer.jpg)Transfer result
