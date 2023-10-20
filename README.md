@@ -6,10 +6,11 @@ Account will contain the following fields: accountId, name, email,dolg, list Bil
 
 Bill will contain the following fields: billId, BigDecimal amount, boolean isDefault,repaymentOfADebt.
 
- It will also need to be able to accept Payment and Deposit payments,changes in debt percentage
+It will also need to be able to accept Payment and Deposit payments,changes in debt percentage
 
 And realize the method of transferring money from one Account to another (Transfer) in a separate controller. 
-Create account
+
+Create account.
 
 ![image](https://github.com/alexutm123/Project2-Banking-application/blob/main/screen/create.jpg)
 
