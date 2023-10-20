@@ -8,10 +8,9 @@ Bill will contain the following fields: billId, BigDecimal amount, boolean isDef
 
  It will also need to be able to accept Payment and Deposit payments,changes in debt percentage
 
-And realize the method of transferring money from one Account to another (Transfer) in a separate controller.
+And realize the method of transferring money from one Account to another (Transfer) in a separate controller.  Create account
 
-
-Create account![image](https://github.com/alexutm123/Project2-Banking-application/blob/main/screen/create.jpg)
+![image](https://github.com/alexutm123/Project2-Banking-application/blob/main/screen/create.jpg)
 
 Transfer 
 ![image](https://github.com/alexutm123/Project2-Banking-application/blob/main/screen/transfer.jpg)Transfer result
