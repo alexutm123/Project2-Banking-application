@@ -27,6 +27,8 @@ Add depozit
 ![image](https://github.com/alexutm123/Project2-Banking-application/blob/main/screen/addDepozit.jpg)Result depozit
 ![image](https://github.com/alexutm123/Project2-Banking-application/blob/main/screen/addDepresult.jpg)
 
+Debt closure percentage
+![image](https://github.com/alexutm123/Project2-Banking-application/blob/main/screen/PayDolg.jpg)
 
 
 
