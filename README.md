@@ -1,5 +1,6 @@
 # Project2-Banking-application
 Spring Boot,MVC,REST,Maven,HIbernate/JPA
+
 Create an application that will create an Account with user parameters and Bill 
 
 Account will contain the following fields: accountId, name, email,dolg, list Bill
